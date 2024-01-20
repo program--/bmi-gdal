@@ -1,0 +1,3 @@
+[submodule "thirdparty/bmi-cxx"]
+	path = thirdparty/bmi-cxx
+	url = https://github.com/csdms/bmi-cxx
